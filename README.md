@@ -54,10 +54,10 @@ This profile is primarily a workspace for learning and iteration
 
 ## 🎯 Current Goals
 
-- 🚀 Build full-stack projects  
-- 🎬 Improve MT Classics platform  
-- 💡 Master Java & modern JavaScript  
-- 🌐 Learn backend development  
+Build full-stack projects  
+Improve MT Classics platform  
+Master Java & modern JavaScript  
+Learn backend development  
 
 ---
 
