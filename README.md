@@ -14,7 +14,7 @@ This profile is primarily a workspace for learning and iteration
 <h2 align="center"> 🚀 Developer Kit </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,nodejs,django,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,nodejs,django,mysql,git,github,java,r" />
 </p>
 
 
