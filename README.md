@@ -52,14 +52,11 @@ This profile is primarily a workspace for learning and iteration
 
 
 
-
-
-
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mkmconnects-byte/mkmconnects-byte/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mkmconnects-byte/mkmconnects-byte/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ## 🎯 Current Goals
