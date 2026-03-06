@@ -42,8 +42,10 @@ This profile is primarily a workspace for learning and iteration.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkmconnects-byte&bg_color=0d1117&color=7fffd4&line=7fffd4&point=ffffff&area=false&hide_border=true&title_color=00000000"/>
 </p>
 
+<h2 align="center">Contribution Graph</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mkmconnects-byte/mkmconnects-byte/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkmconnects-byte&bg_color=0d1117&color=7fffd4&line=7fffd4&point=ffffff&area=false&hide_border=true&title_color=00000000"/>
 </p>
 
 ---
