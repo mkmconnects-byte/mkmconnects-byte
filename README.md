@@ -27,7 +27,7 @@ This profile is primarily a workspace for learning and iteration
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mkmconnects-byte&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
