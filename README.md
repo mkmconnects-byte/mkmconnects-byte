@@ -36,13 +36,9 @@ This profile is primarily a workspace for learning and iteration
 
 ---
 
-<details>
-  <summary><b>Profile Statistics</b></summary>
-  <br>
+## 📊 Profile Statistics
 
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mkmconnects-byte&bg_color=0d1117&color=7fffd4&line=7fffd4&point=ffffff&area=false&hide_border=false)](https://github.com/mkmconnects-byte)
-
-</details>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mkmconnects-byte&bg_color=0d1117&color=7fffd4&line=7fffd4&point=ffffff&area=false&hide_border=false)](https://github.com/mkmconnects-byte)
 
 ---
 
