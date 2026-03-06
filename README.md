@@ -15,10 +15,7 @@ This profile is primarily a workspace for learning and iteration.
 <h2 align="center">🚀 Teach Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,nodejs,django,mysql,git,github,java,r" />
-</p>
-
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,nodejs,django,mysql,git,github,java,r" /><br><br>
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=ubisoft&logoColor=white" />
