@@ -39,7 +39,7 @@ This profile is primarily a workspace for learning and iteration.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkmconnects-byte&bg_color=0d1117&color=7fffd4&line=7fffd4&point=ffffff&area=false&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkmconnects-byte&bg_color=0d1117&color=7fffd4&line=7fffd4&point=ffffff&area=false&hide_border=false"/>
 </p>
 
 <p align="center">
