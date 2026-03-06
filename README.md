@@ -8,15 +8,15 @@ Most of the work here is related to learning and practice — experimenting with
 ### Current Focus
 - Java programming
 
-This profile is primarily a workspace for learning and iteration
+This profile is primarily a workspace for learning and iteration.
 
+---
 
 <h2 align="center"> 🚀 Developer Kit </h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,php,nodejs,django,mysql,git,github,java,r" />
 </p>
-
 
 ---
 
@@ -30,33 +30,30 @@ This profile is primarily a workspace for learning and iteration
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mkmconnects-byte&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=mkmconnects-byte&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkmconnects-byte&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkmconnects-byte&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mkmconnects-byte&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkmconnects-byte&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-
-<h2 align="center">Profile Statics</h2>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mkmconnects-byte&bg_color=0d1117&color=7fffd4&line=7fffd4&point=ffffff&area=false&hide_border=false)](https://github.com/mkmconnects-byte)
-
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkmconnects-byte&bg_color=0d1117&color=7fffd4&line=7fffd4&point=ffffff&area=false&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mkmconnects-byte/mkmconnects-byte/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 ---
 
 ## 🎯 Current Goals
 
-Build full-stack projects  
-Improve MT Classics platform  
-Master Java & modern JavaScript  
-Learn backend development  
+- Build full-stack projects  
+- Improve MT Classics platform  
+- Master Java & modern JavaScript  
+- Learn backend development  
 
 ---
 
