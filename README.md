@@ -36,13 +36,13 @@ This profile is primarily a workspace for learning and iteration
 
 ---
 
-## 📊 Profile Statistics
+
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mkmconnects-byte&bg_color=0d1117&color=7fffd4&line=7fffd4&point=ffffff&area=false&hide_border=false)](https://github.com/mkmconnects-byte)
 
 ---
 
-## 🔥 Contribution Streak
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mkmconnects-byte&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
@@ -52,7 +52,7 @@ This profile is primarily a workspace for learning and iteration
 
 
 
-## 🐍 Contribution Snake
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mkmconnects-byte/mkmconnects-byte/output/github-contribution-grid-snake-dark.svg" />
