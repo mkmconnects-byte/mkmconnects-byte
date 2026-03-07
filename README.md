@@ -24,6 +24,8 @@ This profile is primarily a workspace for learning and iteration.
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=mkmconnects-byte&color=blue" alt="Profile views" />
+
 ## 🌐 Live Projects
 
 🚀 **MT Classics**  
