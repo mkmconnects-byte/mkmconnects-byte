@@ -20,7 +20,6 @@ This profile is primarily a workspace for learning and iteration.
   <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=ubisoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
