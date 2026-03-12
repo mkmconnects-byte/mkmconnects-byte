@@ -8,7 +8,7 @@ Most of the work here is related to learning and practice — experimenting with
 ### Current Focus
 - Java programming
 - Java script
-- Node-js
+- Node.js
 
 This profile is primarily a workspace for learning and iteration.
 
