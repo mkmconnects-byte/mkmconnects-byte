@@ -6,7 +6,7 @@ Student focused on building a strong foundation in programming and software deve
 Most of the work here is related to learning and practice — experimenting with ideas, implementing concepts from coursework, and gradually improving code quality.
 
 ### Current Focus
-- Java programming
+- Java
 - Java script
 - Node.js
 
