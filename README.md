@@ -48,7 +48,7 @@ This profile is primarily a workspace for learning and iteration.
 
 ## 🌐 Live Projects
 
-<h2>🚀 **MT Classics** </h2> 
+<h2>🚀 MT Classics </h2> 
 🔗 https://mkmconnects-byte.github.io/MT-Classics/
 
 ---
