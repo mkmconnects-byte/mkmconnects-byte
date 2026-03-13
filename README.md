@@ -12,6 +12,11 @@ Most of the work here is related to learning and practice — experimenting with
 
 This profile is primarily a workspace for learning and iteration.
 
+## 🌐 Live Projects
+
+🚀 **MT Classics**
+🔗 https://mkmconnects-byte.github.io/MT-Classics/
+
 ---
 
 <h2 align="center">🚀 Tech Stack</h2>
@@ -43,15 +48,6 @@ This profile is primarily a workspace for learning and iteration.
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
----
-
-
-## 🌐 Live Projects
-
-<h2>🚀 MT Classics </h2> 
-🔗 https://mkmconnects-byte.github.io/MT-Classics/
-
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
