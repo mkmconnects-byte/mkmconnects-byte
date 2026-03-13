@@ -14,7 +14,7 @@ This profile is primarily a workspace for learning and iteration.
 
 ---
 
-<h2 align="center">🚀 Teach Stack</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,git,github,java" /><br><br>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
