@@ -12,7 +12,7 @@ Most of the work here is related to learning and practice — experimenting with
 
 This profile is primarily a workspace for learning and iteration.
 
-## 🌐 Live Projects 👇
+## 🌐 Live Project 👇
 
 🚀 **MT Classics**
 🔗 https://mkmconnects-byte.github.io/MT-Classics/
