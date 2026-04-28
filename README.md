@@ -72,7 +72,7 @@ This profile is primarily a workspace for learning and iteration.
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 - Build full-stack projects
 - Improve MT Classics platform  
